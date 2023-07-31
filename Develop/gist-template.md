@@ -1,10 +1,12 @@
-# Title (replace with your title)
+# FrankO-REGEX-Tutorial
 
-Introductory paragraph (replace this with your text)
+I am creating a tutorial that specifically explains the email matching REGEX: /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/. This will help me to become a better programmer and web developer so that I can search for things faster and more efficiently, which ultimately saves time and increases my productivity.
+
+
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+I will be descriibing the email matching REGEX :  /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/, component by component, letter by letter regardless of literal letter or meta letter.
 
 ## Table of Contents
 
